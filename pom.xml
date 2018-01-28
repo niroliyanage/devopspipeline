@@ -36,7 +36,7 @@
     <url>packagecloud+https://packagecloud.io/niroliyanage/helloworld/main</url>
   </repository>
   <snapshotRepository>
-    <id>packagecloud-exampleCorp</id>
+    <id>packagecloud-helloworld</id>
     <url>packagecloud+https://packagecloud.io/niroliyanage/helloworld/main</url>
   </snapshotRepository>
 </distributionManagement>
