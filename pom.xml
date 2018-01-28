@@ -8,6 +8,11 @@
     <version>0.1.0</version>
 
 
+    <scm>
+           <connection>scm:git:https://github.com/niroliyanage/devopspipeline.git</connection>
+           <url>https://github.com/niroliyanage/devopspipeline</url>
+     </scm>
+
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
