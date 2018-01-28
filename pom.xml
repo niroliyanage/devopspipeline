@@ -28,11 +28,11 @@
     <distributionManagement>
      <repository>
       <id>packagecloud-helloworld</id>
-    <url>packagecloud+https://packagecloud.io/niroliyanage/main</url>
+    <url>packagecloud+https://packagecloud.io/niroliyanage/helloworld/main</url>
   </repository>
   <snapshotRepository>
     <id>packagecloud-exampleCorp</id>
-    <url>packagecloud+https://packagecloud.io/niroliyanage/main</url>
+    <url>packagecloud+https://packagecloud.io/niroliyanage/helloworld/main</url>
   </snapshotRepository>
 </distributionManagement>
 
