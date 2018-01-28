@@ -24,7 +24,17 @@
     <properties>
         <java.version>1.8</java.version>
     </properties>
-
+    
+    <distributionManagement>
+     <repository>
+      <id>packagecloud-helloworld</id>
+    <url>packagecloud+https://packagecloud.io/niroliyanage/main</url>
+  </repository>
+  <snapshotRepository>
+    <id>packagecloud-exampleCorp</id>
+    <url>packagecloud+https://packagecloud.io/niroliyanage/main</url>
+  </snapshotRepository>
+</distributionManagement>
 
     <build>
         <plugins>
