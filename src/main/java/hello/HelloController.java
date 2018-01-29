@@ -17,6 +17,6 @@ public class HelloController {
 	properties.load(this.getClass().getResourceAsStream("helloworld.properties"));
 	String versionName = properties.getProperty("version");
 	String artifactID = properties.getProperty("artifactId");
-	return versionName+artifactId;
+	return versionName+artifactID;
 	}
 }
