@@ -29,12 +29,12 @@ Login to Buildkite to check the progress
 
 Unfortunately I cannot grant read access to the pipeline as this feature is still being developed at buildkite. If I can get someone's email address I can invite them to the project just so they can see the pipeline
 
-```
-Docker Hub Url
-```
+
 
 
 The deployable artifact will end up here
+
+Docker Hub URL
 
 ```
 https://hub.docker.com/r/nirothegreat/niros/ tag:release_build 
