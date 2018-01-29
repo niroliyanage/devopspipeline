@@ -45,6 +45,12 @@
   </snapshotRepository>
 </distributionManagement>
 
+
+  <resource>
+    <directory>src/main/resources</directory>
+    <filtering>true</filtering>
+  </resource>
+
     <build>
         <plugins>
             <plugin>
