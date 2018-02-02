@@ -27,9 +27,13 @@ git commit -m "testing pipeline"
 
 Login to Buildkite to check the progress 
 
-Unfortunately I cannot grant read access to the pipeline as this feature is still being developed at buildkite. If I can get someone's email address I can invite them to the project just so they can see the pipeline
-
-
+A user has been created to access the "Organisation" that i created on buildkite. ( Apologies i should have done this before )
+```
+https://buildkite.com/
+email: buildkitemyob@gmail.com
+password: XSz7FKRdSN22HEme
+```
+You will be able to see the Helloworld1 pipeline
 
 
 The deployable artifact will end up here
